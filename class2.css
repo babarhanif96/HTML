@@ -1,0 +1,33 @@
+/*
+type 1  
+ */
+ p{
+     color: rgb(238, 43, 43);
+     background-color: rgb(14, 13, 13);
+ }
+
+ /*
+ type 2 
+  */
+  
+#para2{
+    color: teal;
+    background-color: tomato;
+}
+/* 
+type 3
+*/
+.para1{
+    color: yellow;
+    background-color: turquoise;
+}
+
+/* 
+type 4
+*/
+
+#para1,#para2{
+    color: brown;
+    background: chartreuse;
+}
+  
